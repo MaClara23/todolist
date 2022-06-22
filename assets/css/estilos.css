@@ -1,0 +1,29 @@
+input,i{
+    margin-bottom: 10px;
+}
+
+.roxo{
+    background-color:  #B5A6FF;
+}
+
+textarea{
+    resize: none;
+}
+
+#background,#cardbody{
+    background-color: #DDD7FF;
+}
+
+#botao, #bold{
+    font-weight: bold;
+    background-color:   #B5A6FF;
+}
+.logoff{
+    position: fixed;
+    right: 0;
+    cursor: pointer;
+}
+
+h4{
+    font-size: 20px;
+}
